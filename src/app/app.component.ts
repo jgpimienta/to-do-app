@@ -21,7 +21,7 @@ export class AppComponent {
    
       this.tasks.push(this.newTask);
       this.newTask = '';
-      alert("se ha agredo una nueva tarea")
+      alert("se agrego nueva tarea")
     
   }
  
